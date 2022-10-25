@@ -1,0 +1,183 @@
+body{
+
+	background-color: black;
+}
+header{
+	color: whitesmoke;
+	background-color: goldenrod;
+	text-align: center;
+	padding: 2px;
+	border-bottom-style: double;
+	border-color: black;
+	position: sticky;
+	top: 0px;
+
+}
+#pages
+{
+	text-align: center;
+	background-color: goldenrod;
+	padding: 0px;
+	display: inline-block;
+	border-right-style: double;
+	border-color: white;
+	border-left-style: double;
+	position: sticky;
+	top: 67px;
+	
+}
+#pages>a{
+	background-color: orange;
+	display: block;
+	padding: 18px;
+	margin: 4px;
+	border-radius: 50px;
+	text-align: center;
+	text-decoration: none;
+}
+#pages>a:hover
+{
+	background-color: black;
+	color: white;
+	box-shadow: 5px 2px 5px whitesmoke;
+
+}
+footer
+{
+	color: whitesmoke;
+	background-color: goldenrod;
+	text-align: center;
+	padding: 2px;
+	border-top-style: double;
+	border-color: black;
+	position: static;
+	}
+
+#name
+{
+	width: 134px;
+	padding: 10px;
+ 	color: white;
+ 	margin-left: 40px;
+	margin-top: -300px;
+	font-size: xx-large;
+
+}
+
+.tex
+{
+	width: 550px;
+	color: white;
+	padding-top: 50px;
+	padding-left: 20px;
+	margin-top: -40px;
+	margin-left: 40px;
+	display: inline-block;
+	font-size: x-large;
+
+
+}
+
+section
+{
+	margin-left: 178px;
+	margin-top: -300px;
+	padding-left: 5px;
+	padding-bottom: 300px;
+	position: fixed;
+
+}
+section>img
+{
+	display: inline-block;
+	margin-top: -120px;
+	margin-left: 700px;
+	border-width: 20px;
+	box-shadow: 5px 2px 5px whitesmoke;
+	border-radius: 100%;
+	display: static;
+	
+}
+span
+{
+	margin-top: -510px;
+}
+p>a:hover
+{
+	color: orange;
+}
+
+.con{
+	
+	color: white;
+	padding-left: 10px;
+	margin-top: -40px;
+	margin-left: 40px;
+	font-size: large;
+	display: inline;
+}
+
+h5
+{
+	padding-left: 50px;
+}
+
+.con>a:hover
+{
+	background-color: black;
+	color: white;
+	box-shadow: 5px 2px 5px whitesmoke;
+
+}
+header>h3{
+	color: navy;
+	font-weight: bold;
+	font-size: x-large;
+	
+}
+.course{
+	
+	margin: 10PX 100PX;
+	color: white;
+	font-weight: bold;
+	display: inline-block;
+	box-shadow: 2px 5px 9px white;
+}
+.n1
+{
+	color: gold;
+	font-weight: bold;
+}
+.course ul{
+	margin-top: -210px;	
+}
+.course li{
+float: left;
+display: block;
+	padding: 30px 60px 20px 60px;
+	text-align: center;
+	background-color: goldenrod;
+	position: sticky;
+	top: 67px;
+	border-radius: 50px;
+}
+
+.course li:hover{
+	background-color:black;
+	color: white;
+	box-shadow: 5px 2px 5px whitesmoke;
+
+
+}
+.coure>table{
+	margin: 10PX 100PX;
+	color: white;
+	font-weight: bold;
+	display: inline-block;
+	box-shadow: 2px 5px 9px white;
+}
+.coure{
+	padding-bottom: 98px;
+	margin-top: -400px;
+	margin-left: 300px;
+}
